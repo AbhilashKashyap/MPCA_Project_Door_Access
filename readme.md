@@ -9,7 +9,7 @@ HR-SR04 Ultrasonic Sensor
 MQ-2 Gas Sensor
 Jumper Cables
 
-The repository has two demo videos to show the working of the project under /Demos
+The repository has a demo video to show the working of the project under /Demos
 Project Code is under /Project
 
 The Project Code is based on Miquel Balboa's MFRC 522 Example Codes and the corresponding libraries need to be added to Arduino IDE before using.
